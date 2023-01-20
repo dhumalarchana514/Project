@@ -1,0 +1,6 @@
+print("hai 1")
+print("hai 2")
+print("hai 3")
+print("hai 4")
+print("hai 5")
+print("hai 6")
